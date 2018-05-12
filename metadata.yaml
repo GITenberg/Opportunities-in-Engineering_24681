@@ -1,0 +1,31 @@
+_repo: Opportunities-in-Engineering_24681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Horton, Charles M. (Charles Marcus)
+    alias: Horton, Marcus
+    birthdate: 1879
+    gutenberg_agent_id: '26669'
+    url: http://www.gutenberg.org/2009/agents/26669
+description: ''
+gutenberg_bookshelf:
+- Engineering
+- Technology
+gutenberg_issued: '2008-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24681'
+  lccn: '20006879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Engineers'
+- !lcsh 'Engineering'
+- !lcc 'TA'
+title: Opportunities in Engineering
+url: http://www.gutenberg.org/ebooks/24681
